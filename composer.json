@@ -1,12 +1,12 @@
 {
-    "name": "yeesoft/yii2-multilingual",
+    "name": "myorb/yii2-multilingual",
     "description": "Yii2 Multilingual Module",
     "keywords": ["yii2", "extension", "yii2-multilingual", "multilingual", "i18n"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Taras Makitra"
+            "name": "Myorb"
         }
     ],
     "autoload": {
